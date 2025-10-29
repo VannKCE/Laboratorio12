@@ -16,4 +16,5 @@ function procesarTexto(texto) {
     console.log("Cantidad de palabras:", cantidadPalabras);
 }
 
-procesarTexto("Hola mundo desde JavaScript.");
+procesarTexto("Hola   mundo desde    JavaScript.");
+

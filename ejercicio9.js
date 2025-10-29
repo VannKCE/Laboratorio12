@@ -6,3 +6,4 @@ const calcularDescuento = function(precio, porcentaje){
 }
 
 console.log(calcularDescuento(180, 20));
+
